@@ -4,3 +4,17 @@
     width: 100%;
     background-color: yellowgreen;
 }
+
+.form-con
+{
+    display: flex;
+    justify-content: center;
+}
+
+.fucking-form
+{
+    height: 200px;
+    width: 80%;
+    background-color: red;
+
+}
